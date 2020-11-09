@@ -1,0 +1,10 @@
+Sex,Intubated,Pneumonia,Age,Pregnant,Diabetes,COPD,Asthma,Immunocompromised,Hypertension,Other_Disease,Cardiovascular_disease,Obesity,Renal_disease,Smoker,Exposure_to_others_with_COVID,Has_COVID,ICU,Died
+F,N,N,54,N,N,N,N,N,N,N,N,Y,N,N,,Y,N,N
+M,N,Y,30,N/A,N,N,N,N,N,N,N,N,N,N,,Y,N,N
+F,N,N,60,N,Y,N,N,N,Y,N,Y,N,N,N,,Y,N,Y
+M,N,Y,47,N/A,Y,N,N,N,N,N,N,N,N,N,,Y,Y,Y
+M,N,N,63,N/A,N,N,N,N,Y,N,N,N,N,N,,Y,N,N
+F,Y,Y,39,N,N,N,N,N,N,N,N,Y,N,N,,Y,N,N
+F,N,Y,46,N,N,N,N,N,N,N,N,N,N,N,,Y,N,N
+M,N,N,28,N/A,N,N,N,N,N,N,N,N,N,N,,Y,N,N
+F,N,N,25,N,N,N,N,N,N,N,N,N,N,N,Y,Y,N,N
